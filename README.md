@@ -1,7 +1,7 @@
 ### Hi there, i'm [Guilherme](https://github.com/guisoares1) 👋
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guisoares1&show_icons=false&theme=dark) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guisoares1&langs_count=5&theme=dark)](https://github.com/guisoares1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guisoares1&langs_count=8&theme=dark)](https://github.com/guisoares1/github-readme-stats)
 <!--
 **guisoares1/guisoares1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
