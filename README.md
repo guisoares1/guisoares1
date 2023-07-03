@@ -1,5 +1,7 @@
 ### <h1 align="center">Hi there, nice to see you here. 👋</h1>
->
+
+<img src="https://komarev.com/ghpvc/?username=guisoares1&label=Profile%20views&color=0e75b6&style=flat" alt="guisoares1" /> ![GitHub followers](https://img.shields.io/github/followers/guisoares1) ![GitHub User's stars](https://img.shields.io/github/stars/guisoares1)
+
 <div align="center">
   <a href="https://github.com/guisoares1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guisoares1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
