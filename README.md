@@ -12,7 +12,7 @@
 ##
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbo.svg" alt="3D LEGO Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D LEGO Contribution Graph" />
 </p>
 
 ##
