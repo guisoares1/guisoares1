@@ -8,15 +8,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisoares1&layout=compact&langs_count=8&theme=white"/> 
 </div>
 
----
 
-### 
+##
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D LEGO Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-night-rainbo.svg" alt="3D LEGO Contribution Graph" />
 </p>
 
----
+##
 
 <div style="display: inline_block" align="center"><br> 
    <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,7 +30,7 @@
 ##
 
 <div> 
- <a href="https://www.linkedin.com/in/guilherme-soares-correa-242162187/" target="_blank" rel="noopener noreferrer">
+ <a href="https://www.linkedin.com/in/guilherme-soares-correa-242162187/" target="_blank" rel="noopener noreferrer" >
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  </a> 
 </div>
