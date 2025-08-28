@@ -7,13 +7,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guisoares1&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisoares1&layout=compact&langs_count=8&theme=white"/> 
 </div>
-
-
-##
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D LEGO Contribution Graph" />
-</p>
+<div> 
+ <a href="https://www.linkedin.com/in/guilherme-soares-correa-242162187/" target="_blank" rel="noopener noreferrer" >
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+ </a> 
+</div>
 
 ##
 
@@ -27,13 +25,8 @@
    <img align="center" alt="Gui-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-##
 
-<div> 
- <a href="https://www.linkedin.com/in/guilherme-soares-correa-242162187/" target="_blank" rel="noopener noreferrer" >
-   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
- </a> 
-</div>
+
 
 <!--
 **guisoares1/guisoares1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
