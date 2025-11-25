@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/guisoares1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guisoares1&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisoares1&layout=compact&langs_count=8&theme=white"/> 
+  <img src="https://github.com/guisoares1/guisoares1/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+
 </div>
 <div> 
  <a href="https://www.linkedin.com/in/guilherme-soares-correa-242162187/" target="_blank" rel="noopener noreferrer" >
